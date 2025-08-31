@@ -490,3 +490,5 @@ const Tours: React.FC = () => {
 		</>
 	);
 };
+
+export default Tours;
